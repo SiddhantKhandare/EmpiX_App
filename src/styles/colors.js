@@ -8,4 +8,5 @@ export const COLORS = {
   white: "#FFFFFF",
   textDark: "#020617",
   textLight: "#64748B",
+  black: "#000000"
 };
